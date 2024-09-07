@@ -1,0 +1,8 @@
+Command to build kuki android apk
+npx react-native start --reset-cache
+rm -rf ./android/app/src/main/res/drawable-*
+rm -rf ./android/app/src/main/res/raw
+ cd android
+ ./gradlew clean
+./gradlew bundleRelease
+

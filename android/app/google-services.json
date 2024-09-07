@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "58936371871",
+    "project_id": "kuki-app-a3e0f",
+    "storage_bucket": "kuki-app-a3e0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58936371871:android:2812863f51b2115d6210aa",
+        "android_client_info": {
+          "package_name": "com.kuki.kukiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqnU_DjBpwGO6YD8LnHu3fBJVSs9qLf50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

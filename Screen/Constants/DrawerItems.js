@@ -1,0 +1,38 @@
+export default [
+    {
+        name:'Home',
+        iconType:'Material',
+        iconName:'home'
+    }/*,{
+        name:'Products',
+        iconType:'Material',
+        iconName:'face-profile'
+    },{
+        name:'ProductDetail',
+        iconType:'Material',
+        iconName:'face-profile'
+    },{
+        name:'Cart',
+        iconType:'Material',
+        iconName:'face-profile'
+    },*/,{
+        name:'Profile',
+        iconType:'Material',
+        iconName:'face-profile'
+    },
+    {
+        name:'Settings',
+        iconType:'Feather',
+        iconName:'settings'
+    },
+    {
+        name:'Invite a Friend!',
+        iconType:'FontAwesome5',
+        iconName:'user-friends'
+    },
+    {
+        name:'Logout',
+        iconType:'FontAwesome5',
+        iconName:'user-friends'
+    }
+]
